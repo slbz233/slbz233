@@ -2,7 +2,7 @@
 - I'm a student of middle school.
 - I'm living in Yulin,Guangxi.
 - U can send email to me.
-- - Of course,my email is slbz233@163.com.
+- Of course,my email is slbz233@163.com.
 - I often play the games are Minecraft and BlueArchive.
 - My Minecraft Java ID is oDqrkyy.
 - Netease ID is Micro的Steve.
