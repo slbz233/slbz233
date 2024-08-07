@@ -2,6 +2,12 @@
 
 
 - ## Hi, I’m @slbz233
+- I'm interested in science,chemistry,mathematics and the other fields of the nature science.
+- I'm learning the Physics,C/C++ and the other more.
+- I'm looking forward to with you!
+- My accounts :
+-   [bilibili : boyhim](https://b23.tv/JI2UIqZ)
+-   [bilibili : 前世之命](https://b23.tv/JcoSNEA)
 
 
 <!---
