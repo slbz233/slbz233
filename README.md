@@ -1,6 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=slbz233&show_icons=true&theme=graywhite&count_private=true" /> 
 
-
 - ## Hello, I’m @slbz233.
 - Hello,I'm @albz233,A Java developer and a student.
 - I'm interested in science,chemistry,mathematics and the other fields of the nature science.
@@ -14,14 +13,15 @@
 
 <!--- 既然你都看源码了,求你别关注前世之命qwp~ --->
 
-<!--- 留言板: 你们有什么样的同学呢? --->
-
 <!--- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xdi8mod&repo=Xdi8aho-Mod&theme=graywhite)](https://github.com/Xdi8Mod/Xdi8aho-Mod)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xdi8&repo=Xdi8aho-Editcount&theme=graywhite)](https://github.com/xdi8/Xdi8aho-Editcount)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=QWERTY770&repo=Xdi8TerraGenesis&theme=graywhite)](https://github.com/QWERTY770/Xdi8TerraGenesis)--->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slbz233&layout=compact)](https://github.com/slbz233)
-
+- Team members:
+- Dev-Creeper
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Creeper&layout=compact)](https://github.com/Dev-Creeper)
+- slbz233
+- [![Top Langs](https://github-readme-stats.vercal.app/api/top-langs/?username=slbz233&layout=compact)](https://github.com/slbz233)
 <!---
 slbz233/slbz233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
