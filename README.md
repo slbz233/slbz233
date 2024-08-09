@@ -15,7 +15,7 @@
 <!--- 
 - [bilibili : 前世之命](https://b23.tv/JcoSNEA)
 --->
-- [bilibili : 熔岩猫114514(他的B站账户名字随时会改)](https://space.bilibili.com/3494366672849199?spm_id_from=333.337.0.0)
+- [bilibili : 熔岩猫114514(unstable)](https://space.bilibili.com/3494366672849199?spm_id_from=333.337.0.0)
 <!--- 千万不要关注我同学们的账号!千万千万不要关注! --->
 <!--- 反正我写这里他们也看不着,我就写多点吧awa~ --->
 
