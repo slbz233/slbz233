@@ -26,7 +26,7 @@
 - Dev-Creeper --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Creeper&layout=compact)](https://github.com/Dev-Creeper) 
 <!--- - slbz233 --->
-[![Top Langs](https://github-readme-stats.vercal.app/api/top-langs/?username=slbz233&layout=compact)](https://github.com/slbz233) 
+<!--- [![Top Langs](https://github-readme-stats.vercal.app/api/top-langs/?username=slbz233&layout=compact)](https://github.com/slbz233) --->
 <!---
 slbz233/slbz233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
