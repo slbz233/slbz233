@@ -18,7 +18,7 @@
 - [bilibili : 前世之命](https://b23.tv/JcoSNEA)
 <!--- 反正我写这里他们也看不着,我就写多点吧awa~ --->
 
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Creeper&repo=BungeePlugin=graywhite)](https://github.com/Dev-Creeper/BungeePlugin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Creeper&repo=BungeePlugin=graywhite)](https://github.com/Dev-Creeper/BungeePlugin)
 <!--- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xdi8&repo=Xdi8aho-Editcount&theme=graywhite)](https://github.com/xdi8/Xdi8aho-Editcount)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=QWERTY770&repo=Xdi8TerraGenesis&theme=graywhite)](https://github.com/QWERTY770/Xdi8TerraGenesis) --->
 
